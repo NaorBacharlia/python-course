@@ -1,1 +1,4 @@
-print("g")
+import datetime
+
+
+print(datetime.datetime.now())
