@@ -35,3 +35,23 @@ num of X win is 1
 num of O win is 0
 do you want to continue(Y/N)
 ```
+
+
+* draw example
+
+```cmd
+-------------
+| X | O | X |
+-------------
+| X | O | O |
+-------------
+| O | X | X |
+-------------
+There is no winner, num of draws 1
+num of O win is 0
+num of X win is 1
+do you want to continue(Y/N)n
+thank you for play with us
+```
+
+
