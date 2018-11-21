@@ -1,5 +1,3 @@
-# python basic project
-
 ## ariel gordon and naor bacharlia
 
 * start the game command
